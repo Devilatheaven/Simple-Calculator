@@ -1,0 +1,29 @@
+.display-div{
+    border: 2px solid black;
+    margin-top: 12%;
+    margin-left: 44%;
+    margin-right: 44%;
+    height: 40px;
+}
+.display{
+    margin-top: 0px;
+    margin-left: 44%;
+    margin-bottom: 0.3%;
+    margin-right: 44%;
+    padding-bottom: 0%;
+    border: 2px solid black;
+}
+.table{
+    padding-top: 0%;
+    text-align: center;
+    margin-left: 44%;
+    border: 2px solid black;
+}
+.button-size{
+    width: 100%;
+    padding-top: 8%;
+    padding-bottom: 5%;
+}
+.div1{
+    padding-top: 2px;
+}
